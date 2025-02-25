@@ -19,13 +19,14 @@ input{
 }
 
 #container{
-    background-color:  #85ccf5;
+    background-color:  #c7ebfc;
     width: 100vw;
     overflow-x: hidden;
 }
 
 img{
-    margin: 2vh;
+    margin: 3vh;
     width: 20vw;
     height: 30vh;
+    margin-left: 6vh;
 }
